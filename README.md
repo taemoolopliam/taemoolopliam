@@ -20,47 +20,20 @@ I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech En
 </p>
 <h3 align="left">🛠️ My Skills</h3>
 👉 Programming languages
-  <ul>
-    <li>C#</li>
-    <li>JavaScript</li>
-    <li>Python</li>
-  </ul>
+<p>&nbsp; &nbsp &nbsp; C#,JavaScript,Python</p>
 👉 Frameworks
-   <ul>
-    <li>.NET Framework</li>
-    <li>.NET Core</li>
-    <li>FastAPI</li>
-  </ul>
+<p>&nbsp; &nbsp &nbsp; .NET Framework, .NET Core, FastAPI</p>
 👉 Library
-   <ul>
-    <li>ReactJS</li>
-    <li>Bootstrap</li>
-    <li>Tailwind CSS</li>
-  </ul>
+<p>&nbsp; &nbsp &nbsp; ReactJS, Bootstrap, Tailwind CSS</p>
 👉 Software & Tools
-   <ul>
-    <li>Figma</li>
-    <li>Shuffle</li>
-    <li>Jira</li>
-    <li>Github</li>
-    <li>Gitlab</li>
-    <li>Bitbucket</li>   
-    <li>MySQL Workbench</li>   
-  </ul>
+<p>&nbsp; &nbsp &nbsp; Figma, Shuffle, Jira, Github, Gitlab, Bitbucket, MySQL Workbench</p>
 👉 IDEs 
-  <ul>
-    <li>Visual studio</li>
-    <li>Visual studio code</li>
-  </ul>
+<p>&nbsp; &nbsp &nbsp; Visual studio, Visual studio code</p>
 👉 Databses 
-  <ul>
-    <li>SQL Server</li>
-    <li>MySQL Server</li>
-  </ul>
+<p>&nbsp; &nbsp &nbsp; SQL Server, MySQL Server</p>
 👉 Operating Systems 
- <ul>
-  <li>Windows</li>
-</ul>
+<p>&nbsp; &nbsp &nbsp; Windows</p>
+
 
 
 
