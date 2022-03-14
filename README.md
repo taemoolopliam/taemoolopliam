@@ -45,6 +45,7 @@ I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech En
     <li>Github</li>
     <li>Gitlab</li>
     <li>Bitbucket</li>   
+    <li>MySQL Workbench</li>   
   </ul>
 👉 IDEs 
   <ul>
