@@ -24,7 +24,7 @@ I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech En
 👉 Frameworks
 <p>&nbsp; &nbsp &nbsp; .NET Framework, .NET Core, FastAPI</p>
 👉 Library
-<p>&nbsp; &nbsp &nbsp; ReactJS, Bootstrap, Tailwind CSS</p>
+<p>&nbsp; &nbsp &nbsp; ReactJS, Bootstrap, Tailwind CSS, jQuery </p>
 👉 Software & Tools
 <p>&nbsp; &nbsp &nbsp; Figma, Shuffle, Jira, Github, Gitlab, Bitbucket, MySQL Workbench</p>
 👉 IDEs 
