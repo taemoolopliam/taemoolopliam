@@ -5,7 +5,7 @@
 A little about me...
 I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech Enthusiast passionate about learning and working with new technologies.
 <ul>
-  <li>❤️ I love Creating websites and Programming in Python.</li>
+  <li>❤️ I love Creating websites and Programming.</li>
   <li>🐟 I like fishing in my spare time</li>
   <li>📘 I’m currently learning React Native</li>
 </ul>
