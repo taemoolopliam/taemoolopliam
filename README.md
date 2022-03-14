@@ -19,55 +19,46 @@ I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech En
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
 <h3 align="left">🛠️ My Skills</h3>
-<ul>
-  <li>👉 Programming languages
-    <ul>
-      <li>C#</li>
-      <li>JavaScript</li>
-      <li>Python</li>
-    </ul>
-  </li>
-  <li>👉 Frameworks
-     <ul>
-      <li>.NET Framework</li>
-      <li>.NET Core</li>
-      <li>FastAPI</li>
-    </ul>
-  </li>
-  <li>👉 Library
-     <ul>
-      <li>ReactJS</li>
-      <li>Bootstrap</li>
-      <li>Tailwind CSS</li>
-    </ul>
-  </li>
-  <li>👉 Software & Tools
-     <ul>
-      <li>Figma</li>
-      <li>Shuffle</li>
-      <li>Jira</li>
-      <li>Github</li>
-      <li>Gitlab</li>
-      <li>Bitbucket</li>   
-    </ul>
-  </li>
-  <li>👉 IDEs 
-    <ul>
-      <li>Visual studio</li>
-      <li>Visual studio code</li>
-    </ul>
-  </li>
-   <li>👉 Databses 
-    <ul>
-      <li>SQL Server</li>
-      <li>MySQL Server</li>
-    </ul>
-  </li>
-  <li>👉 Operating Systems 
-     <ul>
-      <li>Windows</li>
-    </ul>
-  </li>
+👉 Programming languages
+  <ul>
+    <li>C#</li>
+    <li>JavaScript</li>
+    <li>Python</li>
+  </ul>
+👉 Frameworks
+   <ul>
+    <li>.NET Framework</li>
+    <li>.NET Core</li>
+    <li>FastAPI</li>
+  </ul>
+👉 Library
+   <ul>
+    <li>ReactJS</li>
+    <li>Bootstrap</li>
+    <li>Tailwind CSS</li>
+  </ul>
+👉 Software & Tools
+   <ul>
+    <li>Figma</li>
+    <li>Shuffle</li>
+    <li>Jira</li>
+    <li>Github</li>
+    <li>Gitlab</li>
+    <li>Bitbucket</li>   
+  </ul>
+👉 IDEs 
+  <ul>
+    <li>Visual studio</li>
+    <li>Visual studio code</li>
+  </ul>
+👉 Databses 
+  <ul>
+    <li>SQL Server</li>
+    <li>MySQL Server</li>
+  </ul>
+👉 Operating Systems 
+ <ul>
+  <li>Windows</li>
 </ul>
 
 
