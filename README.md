@@ -9,7 +9,7 @@ I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech En
   <li>🐟 I like fishing in my spare time</li>
   <li>📘 I’m currently learning React Native</li>
 </ul>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://web.facebook.com/TaeSorot/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -18,6 +18,14 @@ I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech En
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
+<h3 align="left">🛠️ My Skills</h3>
+<ul>
+  <li>👉 Programming languages</li>
+  <li>👉 Software & Tools</li>
+  <li>👉 IDEs </li>
+  <li>👉 Operating Systems </li>
+</ul>
+
  
 
 
