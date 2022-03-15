@@ -20,19 +20,19 @@ I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech En
 </p>
 <h3 align="left">🛠️ My Skills</h3>
 👉 Programming languages
-<p>&nbsp; &nbsp &nbsp; C#,JavaScript,Python</p>
+<p>&nbsp; &nbsp; &nbsp; C#,JavaScript,Python</p>
 👉 Frameworks
-<p>&nbsp; &nbsp &nbsp; .NET Framework, .NET Core, FastAPI</p>
+<p>&nbsp; &nbsp; &nbsp; .NET Framework, .NET Core, FastAPI</p>
 👉 Library
-<p>&nbsp; &nbsp &nbsp; ReactJS, Bootstrap, Tailwind CSS, jQuery </p>
+<p>&nbsp; &nbsp; &nbsp; ReactJS, Bootstrap, Tailwind CSS, jQuery </p>
 👉 Software & Tools
-<p>&nbsp; &nbsp &nbsp; Figma, Shuffle, Jira, Github, Gitlab, Bitbucket, MySQL Workbench</p>
+<p>&nbsp; &nbsp; &nbsp; Figma, Shuffle, Jira, Github, Gitlab, Bitbucket, MySQL Workbench</p>
 👉 IDEs 
-<p>&nbsp; &nbsp &nbsp; Visual studio, Visual studio code</p>
+<p>&nbsp; &nbsp; &nbsp; Visual studio, Visual studio code</p>
 👉 Databses 
-<p>&nbsp; &nbsp &nbsp; SQL Server, MySQL Server</p>
+<p>&nbsp; &nbsp; &nbsp; SQL Server, MySQL Server</p>
 👉 Operating Systems 
-<p>&nbsp; &nbsp &nbsp; Windows</p>
+<p>&nbsp; &nbsp; &nbsp; Windows</p>
 
 
 
