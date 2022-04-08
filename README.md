@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech En
 <ul>
   <li>❤️ I love Creating websites and Programming.</li>
   <li>🐟 I like fishing in my spare time</li>
-  <li>📘 I’m currently learning React Native</li>
+  <li>📘 I’m currently learning React Native,NextJS</li>
 </ul>
 <h3 align="left">Connect with me</h3>
 <p align="left">
