@@ -34,10 +34,7 @@ I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech En
 👉 Operating Systems 
 <p>&nbsp; &nbsp; &nbsp; Windows</p>
 
-
-
-
-
-
+<h3 align="left">📈 Github Stats</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=taemoolopliam&show_icons=true&locale=en" alt="taemoolopliam" />
 
 Last Edited on: 14/03/2022
