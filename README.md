@@ -35,10 +35,10 @@ I'm a Full Stack Web Developer at THE PRODIGY (THAILAND) CO., LTD. I'm a Tech En
 <p>&nbsp; &nbsp; &nbsp; Windows</p>
 
 <h3 align="left"  >📈 Github Stats</h3>
-<div  align="center" style="display:flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=taemoolopliam&show_icons=true&locale=en" alt="taemoolopliam" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taemoolopliam&show_icons=true&locale=en&layout=compact" alt="taemoolopliam" height="196px"/>
-  <br/>
+<div>
+  <a href="https://github.com/vivekweb2013">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taemoolopliam&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemoolopliam&layout=compact&langs_count=6"/>
 </div>
 </br>
 
