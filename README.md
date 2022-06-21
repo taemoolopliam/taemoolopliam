@@ -15,7 +15,7 @@ I'm a Tech Enthusiast passionate about learning and working with new technologie
 👉 Library
 <p>&nbsp; &nbsp; &nbsp; ReactJS, jQuery </p>
 👉 Software & Tools
-<p>&nbsp; &nbsp; &nbsp; Figma, Shuffle, Jira, Github, Gitlab, Bitbucket, MySQL Workbench</p>
+<p>&nbsp; &nbsp; &nbsp; Figma, Shuffle, Jira, Github, Gitlab, Bitbucket, MySQL Workbench,Postman</p>
 👉 IDEs 
 <p>&nbsp; &nbsp; &nbsp; Visual studio, Visual studio code</p>
 👉 Databses 
