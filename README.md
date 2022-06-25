@@ -19,9 +19,7 @@ I'm a Tech Enthusiast passionate about learning and working with new technologie
 👉 IDEs 
 <p>&nbsp; &nbsp; &nbsp; Visual studio, Visual studio code</p>
 👉 Databses 
-<p>&nbsp; &nbsp; &nbsp; SQL Server, MySQL Server</p>
-👉 Operating Systems 
-<p>&nbsp; &nbsp; &nbsp; Windows</p>
+
 
 <h3 align="left"  >📈 Github Stats</h3>
 <div>
