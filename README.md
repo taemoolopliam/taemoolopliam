@@ -11,7 +11,7 @@ I'm a Tech Enthusiast passionate about learning and working with new technologie
 👉 Programming languages
 <p>&nbsp; &nbsp; &nbsp; C#,JavaScript</p>
 👉 Frameworks
-<p>&nbsp; &nbsp; &nbsp; .NET Framework, .NET Core,Bootstrap, Tailwind CSS</p>
+<p>&nbsp; &nbsp; &nbsp; .NET Framework, .NET Core</p>
 👉 Library
 <p>&nbsp; &nbsp; &nbsp; ReactJS, jQuery </p>
 👉 Software & Tools
