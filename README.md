@@ -21,12 +21,7 @@ I'm a Tech Enthusiast passionate about learning and working with new technologie
 👉 Databses 
 <p>&nbsp; &nbsp; &nbsp; SQL Server, MySQL Server</p>
 
-<h3 align="left"  >📈 Github Stats</h3>
-<div>
-  <a href="https://github.com/vivekweb2013">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taemoolopliam&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taemoolopliam&layout=compact&langs_count=6"/>
-</div>
+
 
 
   </br>
